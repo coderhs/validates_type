@@ -1,0 +1,4 @@
+en:
+  errors:
+    messages:
+      type: se espera que sea un %{type} y no es
